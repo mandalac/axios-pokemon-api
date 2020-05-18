@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/axios-pokemon-api/static/css/main.da1f128f.chunk.css",
+    "main.js": "/axios-pokemon-api/static/js/main.05c41a74.chunk.js",
+    "main.js.map": "/axios-pokemon-api/static/js/main.05c41a74.chunk.js.map",
+    "runtime-main.js": "/axios-pokemon-api/static/js/runtime-main.822fb8ac.js",
+    "runtime-main.js.map": "/axios-pokemon-api/static/js/runtime-main.822fb8ac.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/axios-pokemon-api/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.72d6c62e.chunk.js": "/axios-pokemon-api/static/js/2.72d6c62e.chunk.js",
+    "static/js/2.72d6c62e.chunk.js.map": "/axios-pokemon-api/static/js/2.72d6c62e.chunk.js.map",
+    "index.html": "/axios-pokemon-api/index.html",
+    "precache-manifest.1203d2d8eac11ec7b3a5d41a953c7c97.js": "/axios-pokemon-api/precache-manifest.1203d2d8eac11ec7b3a5d41a953c7c97.js",
+    "service-worker.js": "/axios-pokemon-api/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/axios-pokemon-api/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.da1f128f.chunk.css.map": "/axios-pokemon-api/static/css/main.da1f128f.chunk.css.map",
+    "static/js/2.72d6c62e.chunk.js.LICENSE.txt": "/axios-pokemon-api/static/js/2.72d6c62e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.822fb8ac.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.72d6c62e.chunk.js",
+    "static/css/main.da1f128f.chunk.css",
+    "static/js/main.05c41a74.chunk.js"
+  ]
+}
